@@ -1,0 +1,8 @@
+{
+  "name": "ASC: AI Study Companion",
+  "description": "Transform lecture materials into structured learning experiences with notes, interactive quizzes, and personalized AI tutoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
